@@ -125,3 +125,221 @@
 2022-03-16 01:03:29.759 [main] INFO  Entity.MainProgram - -------------Address List-------------
 2022-03-16 01:03:29.761 [main] INFO  Entity.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
 2022-03-16 01:03:29.761 [main] INFO  Entity.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-38-16 11:38:36.474 [main] INFO  Entity.MainProgram - -------------Requests-------------
+2022-38-16 11:38:36.508 [main] INFO  Entity.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-38-16 11:38:36.510 [main] INFO  Entity.MainProgram - Salaries{id=1, salary='2000'}
+2022-38-16 11:38:36.512 [main] INFO  Entity.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-38-16 11:38:36.514 [main] INFO  Entity.MainProgram - UserGender{id=1, gender='male'}
+2022-38-16 11:38:36.515 [main] INFO  Entity.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-38-16 11:38:36.515 [main] INFO  Entity.MainProgram - -------------Bonuses-------------
+2022-38-16 11:38:36.518 [main] INFO  Entity.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-38-16 11:38:36.519 [main] INFO  Entity.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-38-16 11:38:36.519 [main] INFO  Entity.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-38-16 11:38:36.519 [main] INFO  Entity.MainProgram - -------------Car Classes-------------
+2022-38-16 11:38:36.520 [main] INFO  Entity.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-38-16 11:38:36.521 [main] INFO  Entity.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-38-16 11:38:36.521 [main] INFO  Entity.MainProgram - -------------Car Services-------------
+2022-38-16 11:38:36.523 [main] INFO  Entity.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-38-16 11:38:36.523 [main] INFO  Entity.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-38-16 11:38:36.523 [main] INFO  Entity.MainProgram - -------------Salaries-------------
+2022-38-16 11:38:36.525 [main] INFO  Entity.MainProgram - Salaries{id=1, salary='2000'}
+2022-38-16 11:38:36.525 [main] INFO  Entity.MainProgram - Salaries{id=2, salary='5000'}
+2022-38-16 11:38:36.525 [main] INFO  Entity.MainProgram - -------------Gender List-------------
+2022-38-16 11:38:36.527 [main] INFO  Entity.MainProgram - UserGender{id=1, gender='male'}
+2022-38-16 11:38:36.527 [main] INFO  Entity.MainProgram - UserGender{id=2, gender='female'}
+2022-38-16 11:38:36.527 [main] INFO  Entity.MainProgram - UserGender{id=3, gender='other'}
+2022-38-16 11:38:36.527 [main] INFO  Entity.MainProgram - -------------Address List-------------
+2022-38-16 11:38:36.528 [main] INFO  Entity.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-38-16 11:38:36.528 [main] INFO  Entity.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-58-16 11:58:42.405 [main] INFO  Entity.MainProgram - -------------Requests-------------
+2022-58-16 11:58:42.451 [main] INFO  Entity.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-58-16 11:58:42.455 [main] INFO  Entity.MainProgram - Salaries{id=1, salary='2000'}
+2022-58-16 11:58:42.457 [main] INFO  Entity.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-58-16 11:58:42.459 [main] INFO  Entity.MainProgram - UserGender{id=1, gender='male'}
+2022-58-16 11:58:42.461 [main] INFO  Entity.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-59-16 11:59:23.527 [main] INFO  Entity.MainProgram - -------------Requests-------------
+2022-59-16 11:59:23.564 [main] INFO  Entity.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-59-16 11:59:23.567 [main] INFO  Entity.MainProgram - Salaries{id=1, salary='2000'}
+2022-59-16 11:59:23.569 [main] INFO  Entity.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-59-16 11:59:23.570 [main] INFO  Entity.MainProgram - UserGender{id=1, gender='male'}
+2022-59-16 11:59:23.571 [main] INFO  Entity.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-00-16 12:00:17.877 [main] INFO  Entity.MainProgram - -------------Requests-------------
+2022-00-16 12:00:17.910 [main] INFO  Entity.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-00-16 12:00:17.913 [main] INFO  Entity.MainProgram - Salaries{id=1, salary='2000'}
+2022-00-16 12:00:17.914 [main] INFO  Entity.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-00-16 12:00:17.915 [main] INFO  Entity.MainProgram - UserGender{id=1, gender='male'}
+2022-00-16 12:00:17.916 [main] INFO  Entity.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-00-16 12:00:17.929 [main] INFO  Entity.MainProgram - -------------Bonuses-------------
+2022-00-16 12:00:17.932 [main] INFO  Entity.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-00-16 12:00:17.932 [main] INFO  Entity.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-00-16 12:00:17.932 [main] INFO  Entity.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-00-16 12:00:17.932 [main] INFO  Entity.MainProgram - -------------Car Classes-------------
+2022-00-16 12:00:17.934 [main] INFO  Entity.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-00-16 12:00:17.934 [main] INFO  Entity.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-00-16 12:00:17.934 [main] INFO  Entity.MainProgram - -------------Car Services-------------
+2022-00-16 12:00:17.936 [main] INFO  Entity.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-00-16 12:00:17.936 [main] INFO  Entity.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-00-16 12:00:17.936 [main] INFO  Entity.MainProgram - -------------Salaries-------------
+2022-00-16 12:00:17.938 [main] INFO  Entity.MainProgram - Salaries{id=1, salary='2000'}
+2022-00-16 12:00:17.938 [main] INFO  Entity.MainProgram - Salaries{id=2, salary='5000'}
+2022-00-16 12:00:17.938 [main] INFO  Entity.MainProgram - -------------Gender List-------------
+2022-00-16 12:00:17.940 [main] INFO  Entity.MainProgram - UserGender{id=1, gender='male'}
+2022-00-16 12:00:17.940 [main] INFO  Entity.MainProgram - UserGender{id=2, gender='female'}
+2022-00-16 12:00:17.940 [main] INFO  Entity.MainProgram - UserGender{id=3, gender='other'}
+2022-00-16 12:00:17.940 [main] INFO  Entity.MainProgram - -------------Address List-------------
+2022-00-16 12:00:17.942 [main] INFO  Entity.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-00-16 12:00:17.942 [main] INFO  Entity.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-22-16 12:22:27.080 [main] INFO  Entity.MainProgram - -------------Requests-------------
+2022-22-16 12:22:27.112 [main] INFO  Entity.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-22-16 12:22:27.115 [main] INFO  Entity.MainProgram - Salaries{id=1, salary='2000'}
+2022-22-16 12:22:27.117 [main] INFO  Entity.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-22-16 12:22:27.118 [main] INFO  Entity.MainProgram - UserGender{id=1, gender='male'}
+2022-22-16 12:22:27.120 [main] INFO  Entity.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-23-16 12:23:54.324 [main] INFO  Entity.MainProgram - -------------Requests-------------
+2022-23-16 12:23:54.359 [main] INFO  Entity.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-23-16 12:23:54.361 [main] INFO  Entity.MainProgram - Salaries{id=1, salary='2000'}
+2022-23-16 12:23:54.363 [main] INFO  Entity.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-23-16 12:23:54.365 [main] INFO  Entity.MainProgram - UserGender{id=1, gender='male'}
+2022-23-16 12:23:54.366 [main] INFO  Entity.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-23-16 12:23:54.376 [main] INFO  Entity.MainProgram - -------------Bonuses-------------
+2022-23-16 12:23:54.379 [main] INFO  Entity.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-23-16 12:23:54.380 [main] INFO  Entity.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-23-16 12:23:54.380 [main] INFO  Entity.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-23-16 12:23:54.380 [main] INFO  Entity.MainProgram - -------------Car Classes-------------
+2022-23-16 12:23:54.384 [main] INFO  Entity.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-23-16 12:23:54.384 [main] INFO  Entity.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-23-16 12:23:54.384 [main] INFO  Entity.MainProgram - -------------Car Services-------------
+2022-23-16 12:23:54.387 [main] INFO  Entity.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-23-16 12:23:54.387 [main] INFO  Entity.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-23-16 12:23:54.387 [main] INFO  Entity.MainProgram - -------------Salaries-------------
+2022-23-16 12:23:54.389 [main] INFO  Entity.MainProgram - Salaries{id=1, salary='2000'}
+2022-23-16 12:23:54.389 [main] INFO  Entity.MainProgram - Salaries{id=2, salary='5000'}
+2022-23-16 12:23:54.389 [main] INFO  Entity.MainProgram - -------------Gender List-------------
+2022-23-16 12:23:54.391 [main] INFO  Entity.MainProgram - UserGender{id=1, gender='male'}
+2022-23-16 12:23:54.391 [main] INFO  Entity.MainProgram - UserGender{id=2, gender='female'}
+2022-23-16 12:23:54.391 [main] INFO  Entity.MainProgram - UserGender{id=3, gender='other'}
+2022-23-16 12:23:54.391 [main] INFO  Entity.MainProgram - -------------Address List-------------
+2022-23-16 12:23:54.393 [main] INFO  Entity.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-23-16 12:23:54.393 [main] INFO  Entity.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-24-16 12:24:49.767 [main] INFO  Entity.MainProgram - -------------Requests-------------
+2022-24-16 12:24:49.799 [main] INFO  Entity.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-24-16 12:24:49.803 [main] INFO  Entity.MainProgram - Salaries{id=1, salary='2000'}
+2022-24-16 12:24:49.804 [main] INFO  Entity.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-24-16 12:24:49.806 [main] INFO  Entity.MainProgram - UserGender{id=1, gender='male'}
+2022-24-16 12:24:49.807 [main] INFO  Entity.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-24-16 12:24:49.818 [main] INFO  Entity.MainProgram - -------------Bonuses-------------
+2022-24-16 12:24:49.821 [main] INFO  Entity.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-24-16 12:24:49.821 [main] INFO  Entity.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-24-16 12:24:49.821 [main] INFO  Entity.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-24-16 12:24:49.821 [main] INFO  Entity.MainProgram - -------------Car Classes-------------
+2022-24-16 12:24:49.823 [main] INFO  Entity.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-24-16 12:24:49.823 [main] INFO  Entity.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-24-16 12:24:49.823 [main] INFO  Entity.MainProgram - -------------Car Services-------------
+2022-24-16 12:24:49.826 [main] INFO  Entity.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-24-16 12:24:49.826 [main] INFO  Entity.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-24-16 12:24:49.826 [main] INFO  Entity.MainProgram - -------------Salaries-------------
+2022-24-16 12:24:49.828 [main] INFO  Entity.MainProgram - Salaries{id=1, salary='2000'}
+2022-24-16 12:24:49.828 [main] INFO  Entity.MainProgram - Salaries{id=2, salary='5000'}
+2022-24-16 12:24:49.828 [main] INFO  Entity.MainProgram - -------------Gender List-------------
+2022-24-16 12:24:49.830 [main] INFO  Entity.MainProgram - UserGender{id=1, gender='male'}
+2022-24-16 12:24:49.830 [main] INFO  Entity.MainProgram - UserGender{id=2, gender='female'}
+2022-24-16 12:24:49.830 [main] INFO  Entity.MainProgram - UserGender{id=3, gender='other'}
+2022-24-16 12:24:49.830 [main] INFO  Entity.MainProgram - -------------Address List-------------
+2022-24-16 12:24:49.832 [main] INFO  Entity.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-24-16 12:24:49.832 [main] INFO  Entity.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-25-16 12:25:43.939 [main] INFO  Entity.MainProgram - -------------Requests-------------
+2022-25-16 12:25:43.971 [main] INFO  Entity.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-25-16 12:25:43.974 [main] INFO  Entity.MainProgram - Salaries{id=1, salary='2000'}
+2022-25-16 12:25:43.975 [main] INFO  Entity.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-25-16 12:25:43.977 [main] INFO  Entity.MainProgram - UserGender{id=1, gender='male'}
+2022-25-16 12:25:43.978 [main] INFO  Entity.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-25-16 12:25:44.056 [main] INFO  Entity.MainProgram - -------------Bonuses-------------
+2022-25-16 12:25:44.058 [main] INFO  Entity.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-25-16 12:25:44.058 [main] INFO  Entity.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-25-16 12:25:44.059 [main] INFO  Entity.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-25-16 12:25:44.059 [main] INFO  Entity.MainProgram - -------------Car Classes-------------
+2022-25-16 12:25:44.060 [main] INFO  Entity.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-25-16 12:25:44.060 [main] INFO  Entity.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-25-16 12:25:44.060 [main] INFO  Entity.MainProgram - -------------Car Services-------------
+2022-25-16 12:25:44.062 [main] INFO  Entity.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-25-16 12:25:44.062 [main] INFO  Entity.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-25-16 12:25:44.063 [main] INFO  Entity.MainProgram - -------------Salaries-------------
+2022-25-16 12:25:44.064 [main] INFO  Entity.MainProgram - Salaries{id=1, salary='2000'}
+2022-25-16 12:25:44.064 [main] INFO  Entity.MainProgram - Salaries{id=2, salary='5000'}
+2022-25-16 12:25:44.064 [main] INFO  Entity.MainProgram - -------------Gender List-------------
+2022-25-16 12:25:44.066 [main] INFO  Entity.MainProgram - UserGender{id=1, gender='male'}
+2022-25-16 12:25:44.066 [main] INFO  Entity.MainProgram - UserGender{id=2, gender='female'}
+2022-25-16 12:25:44.066 [main] INFO  Entity.MainProgram - UserGender{id=3, gender='other'}
+2022-25-16 12:25:44.066 [main] INFO  Entity.MainProgram - -------------Address List-------------
+2022-25-16 12:25:44.068 [main] INFO  Entity.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-25-16 12:25:44.068 [main] INFO  Entity.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-22-16 13:22:44.766 [main] INFO  Entity.MainProgram - -------------Requests-------------
+2022-22-16 13:22:44.799 [main] INFO  Entity.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-22-16 13:22:44.803 [main] INFO  Entity.MainProgram - Salaries{id=1, salary='2000'}
+2022-22-16 13:22:44.805 [main] INFO  Entity.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-22-16 13:22:44.807 [main] INFO  Entity.MainProgram - UserGender{id=1, gender='male'}
+2022-22-16 13:22:44.809 [main] INFO  Entity.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-23-16 13:23:14.045 [main] INFO  Entity.MainProgram - -------------Requests-------------
+2022-23-16 13:23:14.083 [main] INFO  Entity.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-23-16 13:23:14.086 [main] INFO  Entity.MainProgram - Salaries{id=1, salary='2000'}
+2022-23-16 13:23:14.086 [main] INFO  Entity.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-23-16 13:23:14.088 [main] INFO  Entity.MainProgram - UserGender{id=1, gender='male'}
+2022-23-16 13:23:14.089 [main] INFO  Entity.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-24-16 13:24:34.782 [main] INFO  Entity.MainProgram - -------------Requests-------------
+2022-24-16 13:24:34.813 [main] INFO  Entity.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-24-16 13:24:34.816 [main] INFO  Entity.MainProgram - Salaries{id=1, salary='2000'}
+2022-24-16 13:24:34.818 [main] INFO  Entity.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-24-16 13:24:34.819 [main] INFO  Entity.MainProgram - UserGender{id=1, gender='male'}
+2022-24-16 13:24:34.820 [main] INFO  Entity.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-25-16 13:25:45.444 [main] INFO  Entity.MainProgram - -------------Requests-------------
+2022-25-16 13:25:45.477 [main] INFO  Entity.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-25-16 13:25:45.480 [main] INFO  Entity.MainProgram - Salaries{id=1, salary='2000'}
+2022-25-16 13:25:45.482 [main] INFO  Entity.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-25-16 13:25:45.483 [main] INFO  Entity.MainProgram - UserGender{id=1, gender='male'}
+2022-25-16 13:25:45.484 [main] INFO  Entity.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-25-16 13:25:45.507 [main] INFO  Entity.MainProgram - -------------Bonuses-------------
+2022-25-16 13:25:45.509 [main] INFO  Entity.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-25-16 13:25:45.509 [main] INFO  Entity.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-25-16 13:25:45.510 [main] INFO  Entity.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-25-16 13:25:45.510 [main] INFO  Entity.MainProgram - -------------Car Classes-------------
+2022-25-16 13:25:45.511 [main] INFO  Entity.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-25-16 13:25:45.512 [main] INFO  Entity.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-25-16 13:25:45.512 [main] INFO  Entity.MainProgram - -------------Car Services-------------
+2022-25-16 13:25:45.514 [main] INFO  Entity.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-25-16 13:25:45.514 [main] INFO  Entity.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-25-16 13:25:45.514 [main] INFO  Entity.MainProgram - -------------Salaries-------------
+2022-25-16 13:25:45.516 [main] INFO  Entity.MainProgram - Salaries{id=1, salary='2000'}
+2022-25-16 13:25:45.516 [main] INFO  Entity.MainProgram - Salaries{id=2, salary='5000'}
+2022-25-16 13:25:45.516 [main] INFO  Entity.MainProgram - -------------Gender List-------------
+2022-25-16 13:25:45.518 [main] INFO  Entity.MainProgram - UserGender{id=1, gender='male'}
+2022-25-16 13:25:45.518 [main] INFO  Entity.MainProgram - UserGender{id=2, gender='female'}
+2022-25-16 13:25:45.518 [main] INFO  Entity.MainProgram - UserGender{id=3, gender='other'}
+2022-25-16 13:25:45.518 [main] INFO  Entity.MainProgram - -------------Address List-------------
+2022-25-16 13:25:45.520 [main] INFO  Entity.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-25-16 13:25:45.520 [main] INFO  Entity.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-27-16 13:27:59.439 [main] INFO  Entity.MainProgram - -------------Requests-------------
+2022-27-16 13:27:59.471 [main] INFO  Entity.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-27-16 13:27:59.474 [main] INFO  Entity.MainProgram - Salaries{id=1, salary='2000'}
+2022-27-16 13:27:59.475 [main] INFO  Entity.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-27-16 13:27:59.476 [main] INFO  Entity.MainProgram - UserGender{id=1, gender='male'}
+2022-27-16 13:27:59.477 [main] INFO  Entity.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-27-16 13:27:59.492 [main] INFO  Entity.MainProgram - -------------Bonuses-------------
+2022-27-16 13:27:59.494 [main] INFO  Entity.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-27-16 13:27:59.495 [main] INFO  Entity.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-27-16 13:27:59.495 [main] INFO  Entity.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-27-16 13:27:59.495 [main] INFO  Entity.MainProgram - -------------Car Classes-------------
+2022-27-16 13:27:59.497 [main] INFO  Entity.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-27-16 13:27:59.497 [main] INFO  Entity.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-27-16 13:27:59.497 [main] INFO  Entity.MainProgram - -------------Car Services-------------
+2022-27-16 13:27:59.502 [main] INFO  Entity.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-27-16 13:27:59.503 [main] INFO  Entity.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-27-16 13:27:59.503 [main] INFO  Entity.MainProgram - -------------Salaries-------------
+2022-27-16 13:27:59.504 [main] INFO  Entity.MainProgram - Salaries{id=1, salary='2000'}
+2022-27-16 13:27:59.505 [main] INFO  Entity.MainProgram - Salaries{id=2, salary='5000'}
+2022-27-16 13:27:59.505 [main] INFO  Entity.MainProgram - -------------Gender List-------------
+2022-27-16 13:27:59.507 [main] INFO  Entity.MainProgram - UserGender{id=1, gender='male'}
+2022-27-16 13:27:59.507 [main] INFO  Entity.MainProgram - UserGender{id=2, gender='female'}
+2022-27-16 13:27:59.507 [main] INFO  Entity.MainProgram - UserGender{id=3, gender='other'}
+2022-27-16 13:27:59.508 [main] INFO  Entity.MainProgram - -------------Address List-------------
+2022-27-16 13:27:59.510 [main] INFO  Entity.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-27-16 13:27:59.510 [main] INFO  Entity.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}

@@ -1,9 +1,7 @@
 package DAO.JDBCMySQL;
 
-import DAO.IConnectionPool;
-import DAO.IUserGenderDAO;
-import Entity.Bonuses;
-import Entity.CarClasses;
+import DAO.InterfacesDAO.IConnectionPool;
+import DAO.InterfacesDAO.IUserGenderDAO;
 import Entity.UserGender;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

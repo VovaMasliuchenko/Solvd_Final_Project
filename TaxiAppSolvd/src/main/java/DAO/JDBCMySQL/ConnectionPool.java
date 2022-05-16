@@ -1,6 +1,6 @@
 package DAO.JDBCMySQL;
 
-import DAO.IConnectionPool;
+import DAO.InterfacesDAO.IConnectionPool;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

@@ -1,16 +1,12 @@
 package DAO.JDBCMySQL;
 
-import DAO.IConnectionPool;
-import DAO.IUsersDAO;
-import Entity.Bonuses;
-import Entity.UserAddress;
-import Entity.UserGender;
+import DAO.InterfacesDAO.IConnectionPool;
+import DAO.InterfacesDAO.IUsersDAO;
 import Entity.Users;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import java.sql.*;
-import java.util.ArrayList;
 import java.util.List;
 
 public class UsersDAO implements IUsersDAO {

@@ -1,7 +1,7 @@
 package DAO.JDBCMySQL;
 
-import DAO.IBonusesDAO;
-import DAO.IConnectionPool;
+import DAO.InterfacesDAO.IBonusesDAO;
+import DAO.InterfacesDAO.IConnectionPool;
 import Entity.Bonuses;
 
 import org.apache.logging.log4j.LogManager;

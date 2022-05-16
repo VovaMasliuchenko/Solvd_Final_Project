@@ -1,6 +1,6 @@
 package Entity;
 
-import DAO.*;
+import DAO.InterfacesDAO.*;
 import DAO.JDBCMySQL.*;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -41,6 +41,15 @@ public class MainProgram {
             IUserGenderDAO userGenderDAO = new UserGenderDAO(connectionPool);
             IUserAddressesDAO userAddressesDAO = new UserAddressesDAO(connectionPool);
             IUsersDAO usersDAO = new UsersDAO(connectionPool);
+            ICreditCardsDAO creditCardsDAO = new CreditCardsDAO(connectionPool);
+            IPhoneNumbersDAO phoneNumbersDAO = new PhoneNumbersDAO(connectionPool);
+            IHomeNumbersDAO homeNumbersDAO = new HomeNumbersDAO(connectionPool);
+            IPaymentMethodsDAO paymentMethodsDAO = new PaymentMethodsDAO(connectionPool);
+            ICarsDAO carsDAO = new CarsDAO(connectionPool);
+            ICarOrdersDAO carOrdersDAO = new CarOrdersDAO(connectionPool);
+            ILicensesDAO licensesDAO = new LicensesDAO(connectionPool);
+            IOrdersDAO ordersDAO = new OrdersDAO(connectionPool);
+            IRatingsDAO ratingsDAO = new RatingsDAO(connectionPool);
 
             CarClasses carClasses = new CarClasses();
             Bonuses bonuses = new Bonuses();
@@ -49,6 +58,16 @@ public class MainProgram {
             UserGender userGender = new UserGender();
             UserAddress userAddress = new UserAddress();
             Users users = new Users();
+            CreditCards creditCards = new CreditCards();
+            PhoneNumbers phoneNumbers = new PhoneNumbers();
+            HomeNumbers homeNumbers = new HomeNumbers();
+            PaymentMethods paymentMethods = new PaymentMethods();
+            Cars cars = new Cars();
+            CarOrders carOrders = new CarOrders();
+            Ratings ratings = new Ratings();
+            Licenses licenses = new Licenses();
+            Orders orders = new Orders();
+
 
             LOGGER.info("-------------Requests-------------");
 

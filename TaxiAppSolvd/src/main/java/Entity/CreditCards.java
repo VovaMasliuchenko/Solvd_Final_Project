@@ -6,14 +6,14 @@ import java.util.Objects;
 public class CreditCards {
 
     private int id;
-    private int card_number;
-    private Date created_day;
+    private String card_number;
+    private String created_day;
     private int code_CVV;
     private int Users_Id;
 
     CreditCards(){}
 
-    public CreditCards(int id, int card_number, Date created_day, int code_CVV, int Users_Id) {
+    public CreditCards(int id, String card_number, String created_day, int code_CVV, int Users_Id) {
         this.id = id;
         this.card_number = card_number;
         this.created_day = created_day;
@@ -45,11 +45,11 @@ public class CreditCards {
         return id;
     }
 
-    public int getCard_number() {
+    public String getCard_number() {
         return card_number;
     }
 
-    public Date getCreated_day() {
+    public String getCreated_day() {
         return created_day;
     }
 
