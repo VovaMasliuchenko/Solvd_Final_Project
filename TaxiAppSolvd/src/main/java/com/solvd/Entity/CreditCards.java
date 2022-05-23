@@ -1,13 +1,22 @@
 package com.solvd.Entity;
 
+import javax.xml.bind.annotation.*;
 import java.util.Objects;
 
+@XmlType(name = "CreditCards")
+@XmlRootElement(name = "CreditCards")
+@XmlAccessorType(XmlAccessType.FIELD)
 public class CreditCards {
 
+    @XmlAttribute(name = "idCard")
     private int id;
+    @XmlElement(name = "cardNumber")
     private String card_number;
+    @XmlElement(name = "createdDay")
     private String created_day;
+    @XmlElement(name = "codeCVV")
     private int code_CVV;
+    @XmlElement(name = "UsersId")
     private int Users_Id;
 
     public CreditCards(){}

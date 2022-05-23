@@ -121,32 +121,17 @@ public class MainProgram {
         IConnectionPool connectionPool = null;
 
         try {
-            JAXBContext context = JAXBContext.newInstance(Bonuses.class);
+            JAXBContext contextCreditCards = JAXBContext.newInstance(CreditCards.class);
 
-            Marshaller marshaller = context.createMarshaller();
+            Marshaller marshaller = contextCreditCards.createMarshaller();
 
-            Object o = new Bonuses(1,"Winter bonus");
-            OutputStream os = new FileOutputStream( "bonuses.xml" );
+            Object o = new CreditCards(1,"4441114447425057","07.15.2020",456,1);
+            OutputStream osCards = new FileOutputStream( "D:\\University\\QA\\Solvd_Final_Project\\TaxiAppSolvd\\src\\main\\resources\\creditCards.xml" );
 
-            marshaller.marshal(o, os);
-
-            marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, Boolean.TRUE);
-
+            marshaller.marshal(o, osCards);
         } catch (JAXBException e) {
             System.out.println(e.getMessage());
         }
-
-        try {
-            JAXBContext jaxbContext = JAXBContext.newInstance(Bonuses.class);
-            Unmarshaller jaxbUnmarshaller = jaxbContext.createUnmarshaller();
-            InputStream xmlFileStream = Thread.currentThread().getContextClassLoader().getResourceAsStream("bonuses.xml");
-
-            Bonuses bonuses = (Bonuses) jaxbUnmarshaller.unmarshal(xmlFileStream);
-            LOGGER.info('\n' + bonuses.toString());
-        } catch (JAXBException e) {
-            e.printStackTrace();
-        }
-
 
     }
 }

@@ -1,16 +1,11 @@
 package com.solvd.Entity;
 
-import javax.xml.bind.annotation.*;
 import java.util.Objects;
 
-@XmlType(name = "Bonuses")
-@XmlRootElement(name = "Bonuses")
-@XmlAccessorType(XmlAccessType.FIELD)
 public class Bonuses {
 
-    @XmlAttribute(name = "idBonus")
     private int id;
-    @XmlElement(name = "typeBonus")
+
     private String type_bonus;
 
     public Bonuses() {}
