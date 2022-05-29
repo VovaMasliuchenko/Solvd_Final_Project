@@ -1621,3 +1621,173 @@ Bonuses{id=1, type_bonus='Summer sale'}
 2022-12-23 17:12:04.900 [main] INFO  com.solvd.MainProgram - -------------Address List-------------
 2022-12-23 17:12:04.904 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
 2022-12-23 17:12:04.904 [main] INFO  com.solvd.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-57-24 15:57:03.146 [main] INFO  com.solvd.MainProgram - -------------Requests-------------
+2022-57-24 15:57:03.208 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-57-24 15:57:03.225 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-57-24 15:57:03.238 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-57-24 15:57:03.246 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-57-24 15:57:03.253 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-57-24 15:57:03.254 [main] INFO  com.solvd.MainProgram - -------------Bonuses-------------
+2022-57-24 15:57:03.258 [main] INFO  com.solvd.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-57-24 15:57:03.258 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-57-24 15:57:03.258 [main] INFO  com.solvd.MainProgram - Bonuses{id=3, type_bonus='spring sales'}
+2022-57-24 15:57:03.259 [main] INFO  com.solvd.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-57-24 15:57:03.259 [main] INFO  com.solvd.MainProgram - -------------Car Classes-------------
+2022-57-24 15:57:03.260 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-57-24 15:57:03.260 [main] INFO  com.solvd.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-57-24 15:57:03.261 [main] INFO  com.solvd.MainProgram - -------------Car Services-------------
+2022-57-24 15:57:03.270 [main] INFO  com.solvd.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-57-24 15:57:03.270 [main] INFO  com.solvd.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-57-24 15:57:03.270 [main] INFO  com.solvd.MainProgram - -------------Salaries-------------
+2022-57-24 15:57:03.271 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-57-24 15:57:03.272 [main] INFO  com.solvd.MainProgram - Salaries{id=2, salary='5000'}
+2022-57-24 15:57:03.272 [main] INFO  com.solvd.MainProgram - -------------Gender List-------------
+2022-57-24 15:57:03.274 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-57-24 15:57:03.274 [main] INFO  com.solvd.MainProgram - UserGender{id=2, gender='female'}
+2022-57-24 15:57:03.274 [main] INFO  com.solvd.MainProgram - UserGender{id=3, gender='other'}
+2022-57-24 15:57:03.274 [main] INFO  com.solvd.MainProgram - -------------Address List-------------
+2022-57-24 15:57:03.293 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-57-24 15:57:03.293 [main] INFO  com.solvd.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-58-24 15:58:29.991 [main] INFO  com.solvd.MainProgram - -------------Requests-------------
+2022-58-24 15:58:30.021 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-58-24 15:58:30.024 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-58-24 15:58:30.026 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-58-24 15:58:30.027 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-58-24 15:58:30.028 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-58-24 15:58:30.029 [main] INFO  com.solvd.MainProgram - -------------Bonuses-------------
+2022-58-24 15:58:30.032 [main] INFO  com.solvd.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-58-24 15:58:30.033 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-58-24 15:58:30.033 [main] INFO  com.solvd.MainProgram - Bonuses{id=3, type_bonus='spring sales'}
+2022-58-24 15:58:30.033 [main] INFO  com.solvd.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-58-24 15:58:30.033 [main] INFO  com.solvd.MainProgram - -------------Car Classes-------------
+2022-58-24 15:58:30.035 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-58-24 15:58:30.035 [main] INFO  com.solvd.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-58-24 15:58:30.035 [main] INFO  com.solvd.MainProgram - -------------Car Services-------------
+2022-58-24 15:58:30.037 [main] INFO  com.solvd.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-58-24 15:58:30.037 [main] INFO  com.solvd.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-58-24 15:58:30.037 [main] INFO  com.solvd.MainProgram - -------------Salaries-------------
+2022-58-24 15:58:30.038 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-58-24 15:58:30.039 [main] INFO  com.solvd.MainProgram - Salaries{id=2, salary='5000'}
+2022-58-24 15:58:30.039 [main] INFO  com.solvd.MainProgram - -------------Gender List-------------
+2022-58-24 15:58:30.040 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-58-24 15:58:30.040 [main] INFO  com.solvd.MainProgram - UserGender{id=2, gender='female'}
+2022-58-24 15:58:30.040 [main] INFO  com.solvd.MainProgram - UserGender{id=3, gender='other'}
+2022-58-24 15:58:30.041 [main] INFO  com.solvd.MainProgram - -------------Address List-------------
+2022-58-24 15:58:30.042 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-58-24 15:58:30.042 [main] INFO  com.solvd.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-00-24 16:00:34.606 [main] INFO  com.solvd.MainProgram - -------------Requests-------------
+2022-00-24 16:00:34.635 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-00-24 16:00:34.638 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-00-24 16:00:34.640 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-00-24 16:00:34.641 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-00-24 16:00:34.642 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-00-24 16:00:34.643 [main] INFO  com.solvd.MainProgram - -------------Bonuses-------------
+2022-00-24 16:00:34.646 [main] INFO  com.solvd.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-00-24 16:00:34.646 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-00-24 16:00:34.647 [main] INFO  com.solvd.MainProgram - Bonuses{id=3, type_bonus='spring sales'}
+2022-00-24 16:00:34.647 [main] INFO  com.solvd.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-00-24 16:00:34.647 [main] INFO  com.solvd.MainProgram - -------------Car Classes-------------
+2022-00-24 16:00:34.652 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-00-24 16:00:34.653 [main] INFO  com.solvd.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-00-24 16:00:34.653 [main] INFO  com.solvd.MainProgram - -------------Car Services-------------
+2022-00-24 16:00:34.655 [main] INFO  com.solvd.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-00-24 16:00:34.655 [main] INFO  com.solvd.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-00-24 16:00:34.655 [main] INFO  com.solvd.MainProgram - -------------Salaries-------------
+2022-00-24 16:00:34.657 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-00-24 16:00:34.658 [main] INFO  com.solvd.MainProgram - Salaries{id=2, salary='5000'}
+2022-00-24 16:00:34.658 [main] INFO  com.solvd.MainProgram - -------------Gender List-------------
+2022-00-24 16:00:34.659 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-00-24 16:00:34.659 [main] INFO  com.solvd.MainProgram - UserGender{id=2, gender='female'}
+2022-00-24 16:00:34.660 [main] INFO  com.solvd.MainProgram - UserGender{id=3, gender='other'}
+2022-00-24 16:00:34.660 [main] INFO  com.solvd.MainProgram - -------------Address List-------------
+2022-00-24 16:00:34.661 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-00-24 16:00:34.662 [main] INFO  com.solvd.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-00-24 16:00:34.827 [main] INFO  com.solvd.MainProgram - 
+CreditCards{id=1, card_number=4441114447425057, created_day=07.15.2020, code_CVV=456, Users_Id=1}
+2022-17-24 16:17:39.706 [main] INFO  com.solvd.MainProgram - -------------Requests-------------
+2022-17-24 16:17:39.735 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-17-24 16:17:39.739 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-17-24 16:17:39.740 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-17-24 16:17:39.742 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-17-24 16:17:39.743 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-17-24 16:17:39.743 [main] INFO  com.solvd.MainProgram - -------------Bonuses-------------
+2022-17-24 16:17:39.747 [main] INFO  com.solvd.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-17-24 16:17:39.747 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-17-24 16:17:39.747 [main] INFO  com.solvd.MainProgram - Bonuses{id=3, type_bonus='spring sales'}
+2022-17-24 16:17:39.748 [main] INFO  com.solvd.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-17-24 16:17:39.748 [main] INFO  com.solvd.MainProgram - -------------Car Classes-------------
+2022-17-24 16:17:39.750 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-17-24 16:17:39.750 [main] INFO  com.solvd.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-17-24 16:17:39.750 [main] INFO  com.solvd.MainProgram - -------------Car Services-------------
+2022-17-24 16:17:39.752 [main] INFO  com.solvd.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-17-24 16:17:39.752 [main] INFO  com.solvd.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-17-24 16:17:39.752 [main] INFO  com.solvd.MainProgram - -------------Salaries-------------
+2022-17-24 16:17:39.754 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-17-24 16:17:39.755 [main] INFO  com.solvd.MainProgram - Salaries{id=2, salary='5000'}
+2022-17-24 16:17:39.755 [main] INFO  com.solvd.MainProgram - -------------Gender List-------------
+2022-17-24 16:17:39.757 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-17-24 16:17:39.757 [main] INFO  com.solvd.MainProgram - UserGender{id=2, gender='female'}
+2022-17-24 16:17:39.757 [main] INFO  com.solvd.MainProgram - UserGender{id=3, gender='other'}
+2022-17-24 16:17:39.757 [main] INFO  com.solvd.MainProgram - -------------Address List-------------
+2022-17-24 16:17:39.759 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-17-24 16:17:39.759 [main] INFO  com.solvd.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-17-24 16:17:39.884 [main] INFO  com.solvd.MainProgram - 
+CreditCards{id=1, card_number=4441114447425057, created_day=07.15.2020, code_CVV=456, Users_Id=1}
+2022-17-24 16:17:58.740 [main] INFO  com.solvd.MainProgram - -------------Requests-------------
+2022-17-24 16:17:58.772 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-17-24 16:17:58.775 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-17-24 16:17:58.777 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-17-24 16:17:58.778 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-17-24 16:17:58.780 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-17-24 16:17:58.780 [main] INFO  com.solvd.MainProgram - -------------Bonuses-------------
+2022-17-24 16:17:58.783 [main] INFO  com.solvd.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-17-24 16:17:58.783 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-17-24 16:17:58.783 [main] INFO  com.solvd.MainProgram - Bonuses{id=3, type_bonus='spring sales'}
+2022-17-24 16:17:58.783 [main] INFO  com.solvd.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-17-24 16:17:58.783 [main] INFO  com.solvd.MainProgram - -------------Car Classes-------------
+2022-17-24 16:17:58.785 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-17-24 16:17:58.785 [main] INFO  com.solvd.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-17-24 16:17:58.785 [main] INFO  com.solvd.MainProgram - -------------Car Services-------------
+2022-17-24 16:17:58.787 [main] INFO  com.solvd.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-17-24 16:17:58.787 [main] INFO  com.solvd.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-17-24 16:17:58.787 [main] INFO  com.solvd.MainProgram - -------------Salaries-------------
+2022-17-24 16:17:58.789 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-17-24 16:17:58.789 [main] INFO  com.solvd.MainProgram - Salaries{id=2, salary='5000'}
+2022-17-24 16:17:58.789 [main] INFO  com.solvd.MainProgram - -------------Gender List-------------
+2022-17-24 16:17:58.791 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-17-24 16:17:58.791 [main] INFO  com.solvd.MainProgram - UserGender{id=2, gender='female'}
+2022-17-24 16:17:58.791 [main] INFO  com.solvd.MainProgram - UserGender{id=3, gender='other'}
+2022-17-24 16:17:58.791 [main] INFO  com.solvd.MainProgram - -------------Address List-------------
+2022-17-24 16:17:58.793 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-17-24 16:17:58.793 [main] INFO  com.solvd.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-17-24 16:17:58.913 [main] INFO  com.solvd.MainProgram - 
+CreditCards{id=1, card_number=4441114447425057, created_day=07.15.2020, code_CVV=645, Users_Id=1}
+2022-22-29 12:22:50.851 [main] INFO  com.solvd.MainProgram - -------------Requests-------------
+2022-22-29 12:22:50.935 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-22-29 12:22:50.939 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-22-29 12:22:50.942 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-22-29 12:22:50.944 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-22-29 12:22:50.946 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-22-29 12:22:50.947 [main] INFO  com.solvd.MainProgram - -------------Bonuses-------------
+2022-22-29 12:22:50.954 [main] INFO  com.solvd.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-22-29 12:22:50.955 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-22-29 12:22:50.955 [main] INFO  com.solvd.MainProgram - Bonuses{id=3, type_bonus='spring sales'}
+2022-22-29 12:22:50.955 [main] INFO  com.solvd.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-22-29 12:22:50.957 [main] INFO  com.solvd.MainProgram - -------------Car Classes-------------
+2022-22-29 12:22:50.964 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-22-29 12:22:50.964 [main] INFO  com.solvd.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-22-29 12:22:50.965 [main] INFO  com.solvd.MainProgram - -------------Car Services-------------
+2022-22-29 12:22:50.970 [main] INFO  com.solvd.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-22-29 12:22:50.970 [main] INFO  com.solvd.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-22-29 12:22:50.970 [main] INFO  com.solvd.MainProgram - -------------Salaries-------------
+2022-22-29 12:22:50.972 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-22-29 12:22:50.973 [main] INFO  com.solvd.MainProgram - Salaries{id=2, salary='5000'}
+2022-22-29 12:22:50.973 [main] INFO  com.solvd.MainProgram - -------------Gender List-------------
+2022-22-29 12:22:50.975 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-22-29 12:22:50.975 [main] INFO  com.solvd.MainProgram - UserGender{id=2, gender='female'}
+2022-22-29 12:22:50.975 [main] INFO  com.solvd.MainProgram - UserGender{id=3, gender='other'}
+2022-22-29 12:22:50.976 [main] INFO  com.solvd.MainProgram - -------------Address List-------------
+2022-22-29 12:22:50.979 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-22-29 12:22:50.979 [main] INFO  com.solvd.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-22-29 12:22:51.180 [main] INFO  com.solvd.MainProgram - 
+CreditCards{id=1, card_number=4441114447425057, created_day=07.15.2020, code_CVV=645, Users_Id=1}

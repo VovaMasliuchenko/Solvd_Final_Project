@@ -1,5 +1,7 @@
 package com.solvd;
 
+import com.fasterxml.jackson.core.JacksonException;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.solvd.DAO.InterfacesDAO.*;
 import com.solvd.DAO.JDBCMySQL.*;
 import com.solvd.Entity.*;
@@ -9,7 +11,6 @@ import org.apache.logging.log4j.Logger;
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
 import javax.xml.bind.Marshaller;
-import javax.xml.bind.Unmarshaller;
 
 import java.io.*;
 
@@ -125,7 +126,7 @@ public class MainProgram {
 
             Marshaller marshaller = contextCreditCards.createMarshaller();
 
-            Object o = new CreditCards(1,"4441114447425057","07.15.2020",456,1);
+            Object o = new CreditCards(1,"4441114447425057","07.15.2020",645,1);
             OutputStream osCards = new FileOutputStream( "D:\\University\\QA\\Solvd_Final_Project\\TaxiAppSolvd\\src\\main\\resources\\creditCards.xml" );
 
             marshaller.marshal(o, osCards);
@@ -133,5 +134,14 @@ public class MainProgram {
             System.out.println(e.getMessage());
         }
 
+        try {
+            ObjectMapper objectMapper = new ObjectMapper();
+
+            CreditCards cc = new CreditCards(1, "4441114447425057", "07.15.2020", 645, 1);
+
+            objectMapper.writeValue(new File("D:\\University\\QA\\Solvd_Final_Project\\TaxiAppSolvd\\src\\main\\resources\\creditCards.json"), cc);
+        } catch (JacksonException e) {
+            System.out.println(e.getMessage());
+        }
     }
 }

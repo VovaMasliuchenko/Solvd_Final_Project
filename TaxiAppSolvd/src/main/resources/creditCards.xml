@@ -1,7 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CreditCards idCard="1">
-    <cardNumber>4441114447425057</cardNumber>
-    <createdDay>07.15.2020</createdDay>
-    <codeCVV>456</codeCVV>
-    <UsersId>1</UsersId>
-</CreditCards>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><CreditCards idCard="1"><cardNumber>4441114447425057</cardNumber><createdDay>07.15.2020</createdDay><codeCVV>645</codeCVV><UsersId>1</UsersId></CreditCards>
