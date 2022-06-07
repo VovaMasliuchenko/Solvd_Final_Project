@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.solvd.mybatis.mapper.BonusesMapper">
+
+    <select id="getAll" resultType="bonuses">
+        SELECT * FROM BONUSES
+    </select>
+
+    <select id="getEntityById" parameterType="int" resultType="bonuses">
+        SELECT * FROM BONUSES WHERE id = #{id}
+    </select>
+
+    <insert id="addEntity" parameterType="com.solvd.Entity.Bonuses">
+        INSERT INTO BONUSES (id,type_bonus) VALUES(#{id}, #{type_bonuses})
+    </insert>
+
+    <update id="updateEntity">
+        UPDATE BONUSES SET type_bonus = #{type_bonuses} WHERE id = #{id}
+    </update>
+
+    <delete id="deleteEntity">
+        DELETE FROM BONUSES WHERE id = #{id}
+    </delete>
+
+</mapper>

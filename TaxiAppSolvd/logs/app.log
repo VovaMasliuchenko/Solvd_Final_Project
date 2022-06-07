@@ -1791,3 +1791,423 @@ CreditCards{id=1, card_number=4441114447425057, created_day=07.15.2020, code_CVV
 2022-22-29 12:22:50.979 [main] INFO  com.solvd.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
 2022-22-29 12:22:51.180 [main] INFO  com.solvd.MainProgram - 
 CreditCards{id=1, card_number=4441114447425057, created_day=07.15.2020, code_CVV=645, Users_Id=1}
+2022-02-05 15:02:27.714 [main] INFO  com.solvd.MainProgram - -------------Requests-------------
+2022-02-05 15:02:27.755 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-02-05 15:02:27.758 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-02-05 15:02:27.759 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-02-05 15:02:27.762 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-02-05 15:02:27.763 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-02-05 15:02:27.764 [main] INFO  com.solvd.MainProgram - -------------Bonuses-------------
+2022-02-05 15:02:27.767 [main] INFO  com.solvd.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-02-05 15:02:27.767 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-02-05 15:02:27.767 [main] INFO  com.solvd.MainProgram - Bonuses{id=3, type_bonus='spring sales'}
+2022-02-05 15:02:27.767 [main] INFO  com.solvd.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-02-05 15:02:27.768 [main] INFO  com.solvd.MainProgram - -------------Car Classes-------------
+2022-02-05 15:02:27.769 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-02-05 15:02:27.769 [main] INFO  com.solvd.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-02-05 15:02:27.770 [main] INFO  com.solvd.MainProgram - -------------Car Services-------------
+2022-02-05 15:02:27.771 [main] INFO  com.solvd.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-02-05 15:02:27.772 [main] INFO  com.solvd.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-02-05 15:02:27.772 [main] INFO  com.solvd.MainProgram - -------------Salaries-------------
+2022-02-05 15:02:27.774 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-02-05 15:02:27.774 [main] INFO  com.solvd.MainProgram - Salaries{id=2, salary='5000'}
+2022-02-05 15:02:27.774 [main] INFO  com.solvd.MainProgram - -------------Gender List-------------
+2022-02-05 15:02:27.791 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-02-05 15:02:27.792 [main] INFO  com.solvd.MainProgram - UserGender{id=2, gender='female'}
+2022-02-05 15:02:27.792 [main] INFO  com.solvd.MainProgram - UserGender{id=3, gender='other'}
+2022-02-05 15:02:27.792 [main] INFO  com.solvd.MainProgram - -------------Address List-------------
+2022-02-05 15:02:27.794 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-02-05 15:02:27.794 [main] INFO  com.solvd.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-02-05 15:02:28.318 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+2022-05-05 15:05:41.118 [main] INFO  com.solvd.MainProgram - -------------Requests-------------
+2022-05-05 15:05:41.144 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-05-05 15:05:41.147 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-05-05 15:05:41.149 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-05-05 15:05:41.151 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-05-05 15:05:41.152 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-05-05 15:05:41.152 [main] INFO  com.solvd.MainProgram - -------------Bonuses-------------
+2022-05-05 15:05:41.156 [main] INFO  com.solvd.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-05-05 15:05:41.156 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-05-05 15:05:41.157 [main] INFO  com.solvd.MainProgram - Bonuses{id=3, type_bonus='spring sales'}
+2022-05-05 15:05:41.157 [main] INFO  com.solvd.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-05-05 15:05:41.157 [main] INFO  com.solvd.MainProgram - -------------Car Classes-------------
+2022-05-05 15:05:41.159 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-05-05 15:05:41.159 [main] INFO  com.solvd.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-05-05 15:05:41.159 [main] INFO  com.solvd.MainProgram - -------------Car Services-------------
+2022-05-05 15:05:41.161 [main] INFO  com.solvd.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-05-05 15:05:41.161 [main] INFO  com.solvd.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-05-05 15:05:41.161 [main] INFO  com.solvd.MainProgram - -------------Salaries-------------
+2022-05-05 15:05:41.163 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-05-05 15:05:41.163 [main] INFO  com.solvd.MainProgram - Salaries{id=2, salary='5000'}
+2022-05-05 15:05:41.163 [main] INFO  com.solvd.MainProgram - -------------Gender List-------------
+2022-05-05 15:05:41.165 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-05-05 15:05:41.165 [main] INFO  com.solvd.MainProgram - UserGender{id=2, gender='female'}
+2022-05-05 15:05:41.165 [main] INFO  com.solvd.MainProgram - UserGender{id=3, gender='other'}
+2022-05-05 15:05:41.165 [main] INFO  com.solvd.MainProgram - -------------Address List-------------
+2022-05-05 15:05:41.168 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-05-05 15:05:41.168 [main] INFO  com.solvd.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-05-05 15:05:41.508 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+2022-06-05 15:06:43.694 [main] INFO  com.solvd.MainProgram - -------------Requests-------------
+2022-06-05 15:06:43.721 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-06-05 15:06:43.724 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-06-05 15:06:43.727 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-06-05 15:06:43.728 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-06-05 15:06:43.730 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-06-05 15:06:43.730 [main] INFO  com.solvd.MainProgram - -------------Bonuses-------------
+2022-06-05 15:06:43.733 [main] INFO  com.solvd.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-06-05 15:06:43.733 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-06-05 15:06:43.734 [main] INFO  com.solvd.MainProgram - Bonuses{id=3, type_bonus='spring sales'}
+2022-06-05 15:06:43.734 [main] INFO  com.solvd.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-06-05 15:06:43.734 [main] INFO  com.solvd.MainProgram - -------------Car Classes-------------
+2022-06-05 15:06:43.736 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-06-05 15:06:43.736 [main] INFO  com.solvd.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-06-05 15:06:43.737 [main] INFO  com.solvd.MainProgram - -------------Car Services-------------
+2022-06-05 15:06:43.738 [main] INFO  com.solvd.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-06-05 15:06:43.739 [main] INFO  com.solvd.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-06-05 15:06:43.739 [main] INFO  com.solvd.MainProgram - -------------Salaries-------------
+2022-06-05 15:06:43.741 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-06-05 15:06:43.741 [main] INFO  com.solvd.MainProgram - Salaries{id=2, salary='5000'}
+2022-06-05 15:06:43.741 [main] INFO  com.solvd.MainProgram - -------------Gender List-------------
+2022-06-05 15:06:43.743 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-06-05 15:06:43.743 [main] INFO  com.solvd.MainProgram - UserGender{id=2, gender='female'}
+2022-06-05 15:06:43.743 [main] INFO  com.solvd.MainProgram - UserGender{id=3, gender='other'}
+2022-06-05 15:06:43.743 [main] INFO  com.solvd.MainProgram - -------------Address List-------------
+2022-06-05 15:06:43.745 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-06-05 15:06:43.745 [main] INFO  com.solvd.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-06-05 15:06:44.059 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+2022-11-05 15:11:01.376 [main] INFO  com.solvd.MainProgram - -------------Requests-------------
+2022-11-05 15:11:01.406 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-11-05 15:11:01.410 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-11-05 15:11:01.412 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-11-05 15:11:01.413 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-11-05 15:11:01.416 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-11-05 15:11:01.416 [main] INFO  com.solvd.MainProgram - -------------Bonuses-------------
+2022-11-05 15:11:01.421 [main] INFO  com.solvd.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-11-05 15:11:01.421 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-11-05 15:11:01.422 [main] INFO  com.solvd.MainProgram - Bonuses{id=3, type_bonus='spring sales'}
+2022-11-05 15:11:01.422 [main] INFO  com.solvd.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-11-05 15:11:01.422 [main] INFO  com.solvd.MainProgram - -------------Car Classes-------------
+2022-11-05 15:11:01.424 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-11-05 15:11:01.425 [main] INFO  com.solvd.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-11-05 15:11:01.425 [main] INFO  com.solvd.MainProgram - -------------Car Services-------------
+2022-11-05 15:11:01.430 [main] INFO  com.solvd.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-11-05 15:11:01.431 [main] INFO  com.solvd.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-11-05 15:11:01.431 [main] INFO  com.solvd.MainProgram - -------------Salaries-------------
+2022-11-05 15:11:01.435 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-11-05 15:11:01.435 [main] INFO  com.solvd.MainProgram - Salaries{id=2, salary='5000'}
+2022-11-05 15:11:01.435 [main] INFO  com.solvd.MainProgram - -------------Gender List-------------
+2022-11-05 15:11:01.438 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-11-05 15:11:01.438 [main] INFO  com.solvd.MainProgram - UserGender{id=2, gender='female'}
+2022-11-05 15:11:01.438 [main] INFO  com.solvd.MainProgram - UserGender{id=3, gender='other'}
+2022-11-05 15:11:01.438 [main] INFO  com.solvd.MainProgram - -------------Address List-------------
+2022-11-05 15:11:01.441 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-11-05 15:11:01.441 [main] INFO  com.solvd.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-11-05 15:11:01.862 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+2022-13-05 15:13:08.262 [main] INFO  com.solvd.MainProgram - -------------Requests-------------
+2022-13-05 15:13:08.293 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-13-05 15:13:08.297 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-13-05 15:13:08.298 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-13-05 15:13:08.300 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-13-05 15:13:08.301 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-13-05 15:13:08.301 [main] INFO  com.solvd.MainProgram - -------------Bonuses-------------
+2022-13-05 15:13:08.305 [main] INFO  com.solvd.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-13-05 15:13:08.305 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-13-05 15:13:08.306 [main] INFO  com.solvd.MainProgram - Bonuses{id=3, type_bonus='spring sales'}
+2022-13-05 15:13:08.306 [main] INFO  com.solvd.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-13-05 15:13:08.306 [main] INFO  com.solvd.MainProgram - -------------Car Classes-------------
+2022-13-05 15:13:08.308 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-13-05 15:13:08.308 [main] INFO  com.solvd.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-13-05 15:13:08.308 [main] INFO  com.solvd.MainProgram - -------------Car Services-------------
+2022-13-05 15:13:08.310 [main] INFO  com.solvd.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-13-05 15:13:08.310 [main] INFO  com.solvd.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-13-05 15:13:08.310 [main] INFO  com.solvd.MainProgram - -------------Salaries-------------
+2022-13-05 15:13:08.312 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-13-05 15:13:08.312 [main] INFO  com.solvd.MainProgram - Salaries{id=2, salary='5000'}
+2022-13-05 15:13:08.312 [main] INFO  com.solvd.MainProgram - -------------Gender List-------------
+2022-13-05 15:13:08.314 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-13-05 15:13:08.314 [main] INFO  com.solvd.MainProgram - UserGender{id=2, gender='female'}
+2022-13-05 15:13:08.314 [main] INFO  com.solvd.MainProgram - UserGender{id=3, gender='other'}
+2022-13-05 15:13:08.314 [main] INFO  com.solvd.MainProgram - -------------Address List-------------
+2022-13-05 15:13:08.317 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-13-05 15:13:08.317 [main] INFO  com.solvd.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-13-05 15:13:08.624 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+2022-13-05 15:13:27.813 [main] INFO  com.solvd.MainProgram - -------------Requests-------------
+2022-13-05 15:13:27.851 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-13-05 15:13:27.854 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-13-05 15:13:27.856 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-13-05 15:13:27.858 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-13-05 15:13:27.859 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-13-05 15:13:27.860 [main] INFO  com.solvd.MainProgram - -------------Bonuses-------------
+2022-13-05 15:13:27.863 [main] INFO  com.solvd.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-13-05 15:13:27.864 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-13-05 15:13:27.864 [main] INFO  com.solvd.MainProgram - Bonuses{id=3, type_bonus='spring sales'}
+2022-13-05 15:13:27.864 [main] INFO  com.solvd.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-13-05 15:13:27.864 [main] INFO  com.solvd.MainProgram - -------------Car Classes-------------
+2022-13-05 15:13:27.866 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-13-05 15:13:27.867 [main] INFO  com.solvd.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-13-05 15:13:27.867 [main] INFO  com.solvd.MainProgram - -------------Car Services-------------
+2022-13-05 15:13:27.869 [main] INFO  com.solvd.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-13-05 15:13:27.869 [main] INFO  com.solvd.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-13-05 15:13:27.869 [main] INFO  com.solvd.MainProgram - -------------Salaries-------------
+2022-13-05 15:13:27.871 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-13-05 15:13:27.872 [main] INFO  com.solvd.MainProgram - Salaries{id=2, salary='5000'}
+2022-13-05 15:13:27.872 [main] INFO  com.solvd.MainProgram - -------------Gender List-------------
+2022-13-05 15:13:27.874 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-13-05 15:13:27.874 [main] INFO  com.solvd.MainProgram - UserGender{id=2, gender='female'}
+2022-13-05 15:13:27.874 [main] INFO  com.solvd.MainProgram - UserGender{id=3, gender='other'}
+2022-13-05 15:13:27.874 [main] INFO  com.solvd.MainProgram - -------------Address List-------------
+2022-13-05 15:13:27.877 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-13-05 15:13:27.877 [main] INFO  com.solvd.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-13-05 15:13:28.193 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+2022-18-05 15:18:04.083 [main] INFO  com.solvd.MainProgram - -------------Requests-------------
+2022-18-05 15:18:04.111 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-18-05 15:18:04.114 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-18-05 15:18:04.116 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-18-05 15:18:04.117 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-18-05 15:18:04.119 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-18-05 15:18:04.119 [main] INFO  com.solvd.MainProgram - -------------Bonuses-------------
+2022-18-05 15:18:04.123 [main] INFO  com.solvd.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-18-05 15:18:04.123 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-18-05 15:18:04.123 [main] INFO  com.solvd.MainProgram - Bonuses{id=3, type_bonus='spring sales'}
+2022-18-05 15:18:04.123 [main] INFO  com.solvd.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-18-05 15:18:04.123 [main] INFO  com.solvd.MainProgram - -------------Car Classes-------------
+2022-18-05 15:18:04.125 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-18-05 15:18:04.125 [main] INFO  com.solvd.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-18-05 15:18:04.125 [main] INFO  com.solvd.MainProgram - -------------Car Services-------------
+2022-18-05 15:18:04.127 [main] INFO  com.solvd.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-18-05 15:18:04.127 [main] INFO  com.solvd.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-18-05 15:18:04.127 [main] INFO  com.solvd.MainProgram - -------------Salaries-------------
+2022-18-05 15:18:04.129 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-18-05 15:18:04.129 [main] INFO  com.solvd.MainProgram - Salaries{id=2, salary='5000'}
+2022-18-05 15:18:04.129 [main] INFO  com.solvd.MainProgram - -------------Gender List-------------
+2022-18-05 15:18:04.131 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-18-05 15:18:04.131 [main] INFO  com.solvd.MainProgram - UserGender{id=2, gender='female'}
+2022-18-05 15:18:04.131 [main] INFO  com.solvd.MainProgram - UserGender{id=3, gender='other'}
+2022-18-05 15:18:04.131 [main] INFO  com.solvd.MainProgram - -------------Address List-------------
+2022-18-05 15:18:04.133 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-18-05 15:18:04.133 [main] INFO  com.solvd.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-18-05 15:18:04.448 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+2022-24-05 15:24:31.412 [main] INFO  com.solvd.MainProgram - -------------Requests-------------
+2022-24-05 15:24:31.440 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-24-05 15:24:31.442 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-24-05 15:24:31.444 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-24-05 15:24:31.445 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-24-05 15:24:31.447 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-24-05 15:24:31.447 [main] INFO  com.solvd.MainProgram - -------------Bonuses-------------
+2022-24-05 15:24:31.450 [main] INFO  com.solvd.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-24-05 15:24:31.450 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-24-05 15:24:31.450 [main] INFO  com.solvd.MainProgram - Bonuses{id=3, type_bonus='spring sales'}
+2022-24-05 15:24:31.450 [main] INFO  com.solvd.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-24-05 15:24:31.451 [main] INFO  com.solvd.MainProgram - -------------Car Classes-------------
+2022-24-05 15:24:31.452 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-24-05 15:24:31.453 [main] INFO  com.solvd.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-24-05 15:24:31.453 [main] INFO  com.solvd.MainProgram - -------------Car Services-------------
+2022-24-05 15:24:31.455 [main] INFO  com.solvd.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-24-05 15:24:31.455 [main] INFO  com.solvd.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-24-05 15:24:31.455 [main] INFO  com.solvd.MainProgram - -------------Salaries-------------
+2022-24-05 15:24:31.457 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-24-05 15:24:31.457 [main] INFO  com.solvd.MainProgram - Salaries{id=2, salary='5000'}
+2022-24-05 15:24:31.457 [main] INFO  com.solvd.MainProgram - -------------Gender List-------------
+2022-24-05 15:24:31.458 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-24-05 15:24:31.459 [main] INFO  com.solvd.MainProgram - UserGender{id=2, gender='female'}
+2022-24-05 15:24:31.459 [main] INFO  com.solvd.MainProgram - UserGender{id=3, gender='other'}
+2022-24-05 15:24:31.459 [main] INFO  com.solvd.MainProgram - -------------Address List-------------
+2022-24-05 15:24:31.460 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-24-05 15:24:31.461 [main] INFO  com.solvd.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-24-05 15:24:31.777 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+2022-24-05 15:24:38.585 [main] INFO  com.solvd.MainProgram - -------------Requests-------------
+2022-24-05 15:24:38.612 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-24-05 15:24:38.615 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-24-05 15:24:38.617 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-24-05 15:24:38.618 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-24-05 15:24:38.620 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-24-05 15:24:38.620 [main] INFO  com.solvd.MainProgram - -------------Bonuses-------------
+2022-24-05 15:24:38.623 [main] INFO  com.solvd.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-24-05 15:24:38.623 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-24-05 15:24:38.623 [main] INFO  com.solvd.MainProgram - Bonuses{id=3, type_bonus='spring sales'}
+2022-24-05 15:24:38.624 [main] INFO  com.solvd.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-24-05 15:24:38.624 [main] INFO  com.solvd.MainProgram - -------------Car Classes-------------
+2022-24-05 15:24:38.625 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-24-05 15:24:38.626 [main] INFO  com.solvd.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-24-05 15:24:38.626 [main] INFO  com.solvd.MainProgram - -------------Car Services-------------
+2022-24-05 15:24:38.627 [main] INFO  com.solvd.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-24-05 15:24:38.628 [main] INFO  com.solvd.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-24-05 15:24:38.628 [main] INFO  com.solvd.MainProgram - -------------Salaries-------------
+2022-24-05 15:24:38.629 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-24-05 15:24:38.629 [main] INFO  com.solvd.MainProgram - Salaries{id=2, salary='5000'}
+2022-24-05 15:24:38.630 [main] INFO  com.solvd.MainProgram - -------------Gender List-------------
+2022-24-05 15:24:38.631 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-24-05 15:24:38.631 [main] INFO  com.solvd.MainProgram - UserGender{id=2, gender='female'}
+2022-24-05 15:24:38.631 [main] INFO  com.solvd.MainProgram - UserGender{id=3, gender='other'}
+2022-24-05 15:24:38.632 [main] INFO  com.solvd.MainProgram - -------------Address List-------------
+2022-24-05 15:24:38.633 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-24-05 15:24:38.633 [main] INFO  com.solvd.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-24-05 15:24:38.930 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+2022-22-07 16:22:02.300 [main] INFO  com.solvd.MainProgram - -------------Requests-------------
+2022-22-07 16:22:02.369 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-22-07 16:22:02.372 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-22-07 16:22:02.373 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-22-07 16:22:02.375 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-22-07 16:22:02.376 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-22-07 16:22:02.376 [main] INFO  com.solvd.MainProgram - -------------Bonuses-------------
+2022-22-07 16:22:02.387 [main] INFO  com.solvd.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-22-07 16:22:02.388 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-22-07 16:22:02.388 [main] INFO  com.solvd.MainProgram - Bonuses{id=3, type_bonus='spring sales'}
+2022-22-07 16:22:02.388 [main] INFO  com.solvd.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-22-07 16:22:02.388 [main] INFO  com.solvd.MainProgram - -------------Car Classes-------------
+2022-22-07 16:22:02.390 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-22-07 16:22:02.390 [main] INFO  com.solvd.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-22-07 16:22:02.390 [main] INFO  com.solvd.MainProgram - -------------Car Services-------------
+2022-22-07 16:22:02.393 [main] INFO  com.solvd.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-22-07 16:22:02.393 [main] INFO  com.solvd.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-22-07 16:22:02.393 [main] INFO  com.solvd.MainProgram - -------------Salaries-------------
+2022-22-07 16:22:02.395 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-22-07 16:22:02.395 [main] INFO  com.solvd.MainProgram - Salaries{id=2, salary='5000'}
+2022-22-07 16:22:02.395 [main] INFO  com.solvd.MainProgram - -------------Gender List-------------
+2022-22-07 16:22:02.396 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-22-07 16:22:02.397 [main] INFO  com.solvd.MainProgram - UserGender{id=2, gender='female'}
+2022-22-07 16:22:02.397 [main] INFO  com.solvd.MainProgram - UserGender{id=3, gender='other'}
+2022-22-07 16:22:02.397 [main] INFO  com.solvd.MainProgram - -------------Address List-------------
+2022-22-07 16:22:02.398 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-22-07 16:22:02.398 [main] INFO  com.solvd.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-22-07 16:22:03.107 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+2022-22-07 16:22:41.353 [main] INFO  com.solvd.MainProgram - -------------Requests-------------
+2022-22-07 16:22:41.385 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-22-07 16:22:41.387 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-22-07 16:22:41.389 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-22-07 16:22:41.391 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-22-07 16:22:41.392 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-22-07 16:22:41.393 [main] INFO  com.solvd.MainProgram - -------------Bonuses-------------
+2022-22-07 16:22:41.396 [main] INFO  com.solvd.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-22-07 16:22:41.396 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-22-07 16:22:41.396 [main] INFO  com.solvd.MainProgram - Bonuses{id=3, type_bonus='spring sales'}
+2022-22-07 16:22:41.397 [main] INFO  com.solvd.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-22-07 16:22:41.397 [main] INFO  com.solvd.MainProgram - -------------Car Classes-------------
+2022-22-07 16:22:41.398 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-22-07 16:22:41.399 [main] INFO  com.solvd.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-22-07 16:22:41.399 [main] INFO  com.solvd.MainProgram - -------------Car Services-------------
+2022-22-07 16:22:41.401 [main] INFO  com.solvd.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-22-07 16:22:41.401 [main] INFO  com.solvd.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-22-07 16:22:41.401 [main] INFO  com.solvd.MainProgram - -------------Salaries-------------
+2022-22-07 16:22:41.403 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-22-07 16:22:41.403 [main] INFO  com.solvd.MainProgram - Salaries{id=2, salary='5000'}
+2022-22-07 16:22:41.403 [main] INFO  com.solvd.MainProgram - -------------Gender List-------------
+2022-22-07 16:22:41.405 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-22-07 16:22:41.405 [main] INFO  com.solvd.MainProgram - UserGender{id=2, gender='female'}
+2022-22-07 16:22:41.405 [main] INFO  com.solvd.MainProgram - UserGender{id=3, gender='other'}
+2022-22-07 16:22:41.405 [main] INFO  com.solvd.MainProgram - -------------Address List-------------
+2022-22-07 16:22:41.407 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-22-07 16:22:41.407 [main] INFO  com.solvd.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-22-07 16:22:41.727 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+2022-23-07 16:23:57.894 [main] INFO  com.solvd.MainProgram - -------------Requests-------------
+2022-23-07 16:23:57.927 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-23-07 16:23:57.930 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-23-07 16:23:57.931 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-23-07 16:23:57.934 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-23-07 16:23:57.935 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-23-07 16:23:57.936 [main] INFO  com.solvd.MainProgram - -------------Bonuses-------------
+2022-23-07 16:23:57.939 [main] INFO  com.solvd.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-23-07 16:23:57.939 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-23-07 16:23:57.939 [main] INFO  com.solvd.MainProgram - Bonuses{id=3, type_bonus='spring sales'}
+2022-23-07 16:23:57.939 [main] INFO  com.solvd.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-23-07 16:23:57.939 [main] INFO  com.solvd.MainProgram - -------------Car Classes-------------
+2022-23-07 16:23:57.941 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-23-07 16:23:57.941 [main] INFO  com.solvd.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-23-07 16:23:57.941 [main] INFO  com.solvd.MainProgram - -------------Car Services-------------
+2022-23-07 16:23:57.943 [main] INFO  com.solvd.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-23-07 16:23:57.943 [main] INFO  com.solvd.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-23-07 16:23:57.944 [main] INFO  com.solvd.MainProgram - -------------Salaries-------------
+2022-23-07 16:23:57.946 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-23-07 16:23:57.946 [main] INFO  com.solvd.MainProgram - Salaries{id=2, salary='5000'}
+2022-23-07 16:23:57.946 [main] INFO  com.solvd.MainProgram - -------------Gender List-------------
+2022-23-07 16:23:57.947 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-23-07 16:23:57.948 [main] INFO  com.solvd.MainProgram - UserGender{id=2, gender='female'}
+2022-23-07 16:23:57.948 [main] INFO  com.solvd.MainProgram - UserGender{id=3, gender='other'}
+2022-23-07 16:23:57.948 [main] INFO  com.solvd.MainProgram - -------------Address List-------------
+2022-23-07 16:23:57.949 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-23-07 16:23:57.950 [main] INFO  com.solvd.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-23-07 16:23:58.288 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+2022-24-07 16:24:39.221 [main] INFO  com.solvd.MainProgram - -------------Requests-------------
+2022-24-07 16:24:39.251 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-24-07 16:24:39.254 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-24-07 16:24:39.256 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-24-07 16:24:39.259 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-24-07 16:24:39.261 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-24-07 16:24:39.261 [main] INFO  com.solvd.MainProgram - -------------Bonuses-------------
+2022-24-07 16:24:39.265 [main] INFO  com.solvd.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-24-07 16:24:39.265 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-24-07 16:24:39.265 [main] INFO  com.solvd.MainProgram - Bonuses{id=3, type_bonus='spring sales'}
+2022-24-07 16:24:39.265 [main] INFO  com.solvd.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-24-07 16:24:39.266 [main] INFO  com.solvd.MainProgram - -------------Car Classes-------------
+2022-24-07 16:24:39.267 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-24-07 16:24:39.267 [main] INFO  com.solvd.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-24-07 16:24:39.268 [main] INFO  com.solvd.MainProgram - -------------Car Services-------------
+2022-24-07 16:24:39.269 [main] INFO  com.solvd.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-24-07 16:24:39.270 [main] INFO  com.solvd.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-24-07 16:24:39.270 [main] INFO  com.solvd.MainProgram - -------------Salaries-------------
+2022-24-07 16:24:39.271 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-24-07 16:24:39.272 [main] INFO  com.solvd.MainProgram - Salaries{id=2, salary='5000'}
+2022-24-07 16:24:39.272 [main] INFO  com.solvd.MainProgram - -------------Gender List-------------
+2022-24-07 16:24:39.273 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-24-07 16:24:39.274 [main] INFO  com.solvd.MainProgram - UserGender{id=2, gender='female'}
+2022-24-07 16:24:39.274 [main] INFO  com.solvd.MainProgram - UserGender{id=3, gender='other'}
+2022-24-07 16:24:39.274 [main] INFO  com.solvd.MainProgram - -------------Address List-------------
+2022-24-07 16:24:39.276 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-24-07 16:24:39.276 [main] INFO  com.solvd.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-24-07 16:24:39.654 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+2022-39-07 16:39:05.389 [main] INFO  com.solvd.MainProgram - -------------Requests-------------
+2022-39-07 16:39:05.416 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-39-07 16:39:05.419 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-39-07 16:39:05.420 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-39-07 16:39:05.422 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-39-07 16:39:05.423 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-39-07 16:39:05.423 [main] INFO  com.solvd.MainProgram - -------------Bonuses-------------
+2022-39-07 16:39:05.427 [main] INFO  com.solvd.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-39-07 16:39:05.427 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-39-07 16:39:05.427 [main] INFO  com.solvd.MainProgram - Bonuses{id=3, type_bonus='spring sales'}
+2022-39-07 16:39:05.427 [main] INFO  com.solvd.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-39-07 16:39:05.427 [main] INFO  com.solvd.MainProgram - -------------Car Classes-------------
+2022-39-07 16:39:05.429 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-39-07 16:39:05.429 [main] INFO  com.solvd.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-39-07 16:39:05.429 [main] INFO  com.solvd.MainProgram - -------------Car Services-------------
+2022-39-07 16:39:05.431 [main] INFO  com.solvd.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-39-07 16:39:05.431 [main] INFO  com.solvd.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-39-07 16:39:05.431 [main] INFO  com.solvd.MainProgram - -------------Salaries-------------
+2022-39-07 16:39:05.433 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-39-07 16:39:05.433 [main] INFO  com.solvd.MainProgram - Salaries{id=2, salary='5000'}
+2022-39-07 16:39:05.434 [main] INFO  com.solvd.MainProgram - -------------Gender List-------------
+2022-39-07 16:39:05.435 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-39-07 16:39:05.435 [main] INFO  com.solvd.MainProgram - UserGender{id=2, gender='female'}
+2022-39-07 16:39:05.435 [main] INFO  com.solvd.MainProgram - UserGender{id=3, gender='other'}
+2022-39-07 16:39:05.435 [main] INFO  com.solvd.MainProgram - -------------Address List-------------
+2022-39-07 16:39:05.437 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-39-07 16:39:05.437 [main] INFO  com.solvd.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-39-07 16:39:05.761 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+2022-39-07 16:39:38.365 [main] INFO  com.solvd.MainProgram - -------------Requests-------------
+2022-39-07 16:39:38.399 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-39-07 16:39:38.402 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-39-07 16:39:38.403 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-39-07 16:39:38.405 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-39-07 16:39:38.406 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-39-07 16:39:38.406 [main] INFO  com.solvd.MainProgram - -------------Bonuses-------------
+2022-39-07 16:39:38.409 [main] INFO  com.solvd.MainProgram - Bonuses{id=1, type_bonus='summer sale'}
+2022-39-07 16:39:38.409 [main] INFO  com.solvd.MainProgram - Bonuses{id=2, type_bonus='winter_sales'}
+2022-39-07 16:39:38.409 [main] INFO  com.solvd.MainProgram - Bonuses{id=3, type_bonus='spring sales'}
+2022-39-07 16:39:38.410 [main] INFO  com.solvd.MainProgram - Bonuses{id=4, type_bonus='sales'}
+2022-39-07 16:39:38.410 [main] INFO  com.solvd.MainProgram - -------------Car Classes-------------
+2022-39-07 16:39:38.411 [main] INFO  com.solvd.MainProgram - CarClasses{id=1, car_class='Comfort+'}
+2022-39-07 16:39:38.412 [main] INFO  com.solvd.MainProgram - CarClasses{id=2, car_class='Standart'}
+2022-39-07 16:39:38.412 [main] INFO  com.solvd.MainProgram - -------------Car Services-------------
+2022-39-07 16:39:38.413 [main] INFO  com.solvd.MainProgram - CarServices{id=1, service_name='Audi Service'}
+2022-39-07 16:39:38.414 [main] INFO  com.solvd.MainProgram - CarServices{id=2, service_name='BMW Service'}
+2022-39-07 16:39:38.414 [main] INFO  com.solvd.MainProgram - -------------Salaries-------------
+2022-39-07 16:39:38.415 [main] INFO  com.solvd.MainProgram - Salaries{id=1, salary='2000'}
+2022-39-07 16:39:38.416 [main] INFO  com.solvd.MainProgram - Salaries{id=2, salary='5000'}
+2022-39-07 16:39:38.416 [main] INFO  com.solvd.MainProgram - -------------Gender List-------------
+2022-39-07 16:39:38.417 [main] INFO  com.solvd.MainProgram - UserGender{id=1, gender='male'}
+2022-39-07 16:39:38.417 [main] INFO  com.solvd.MainProgram - UserGender{id=2, gender='female'}
+2022-39-07 16:39:38.418 [main] INFO  com.solvd.MainProgram - UserGender{id=3, gender='other'}
+2022-39-07 16:39:38.418 [main] INFO  com.solvd.MainProgram - -------------Address List-------------
+2022-39-07 16:39:38.419 [main] INFO  com.solvd.MainProgram - UserAddress{id=1, address='Poletaeva, 25'}
+2022-39-07 16:39:38.419 [main] INFO  com.solvd.MainProgram - UserAddress{id=2, address='Kobylianska, 3'}
+2022-39-07 16:39:38.741 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.

@@ -5,6 +5,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.solvd.DAO.InterfacesDAO.*;
 import com.solvd.DAO.JDBCMySQL.*;
 import com.solvd.Entity.*;
+import com.solvd.mybatis.mapper.BonusesMapperTest;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -143,5 +144,10 @@ public class MainProgram {
         } catch (JacksonException e) {
             System.out.println(e.getMessage());
         }
+
+        BonusesMapperTest bonusesMapperTest = new BonusesMapperTest();
+        bonusesMapperTest.beforeTest();
+        bonusesMapperTest.testGetAll();
+        bonusesMapperTest.setAfter();
     }
 }
